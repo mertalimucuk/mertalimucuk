@@ -12,7 +12,7 @@ AI pipeline'ları ve full-stack geliştirme üzerine çalışan bilgisayar mühe
 - **[OCR-AI Cascade Filter](https://github.com/mertalimucuk/OCR-ai-cascade-filter)** — %90 maliyet tasarrufu sağlayan 5 katmanlı görsel filtresi
 - **[X-ray Fracture Classification](https://github.com/mertalimucuk/xray-fracture-classification)** — ResNet34 ile röntgen sınıflandırması
 - **[Reservation System](https://github.com/mertalimucuk/ReservationSystem_Web_Project)** — C# ile web tabanlı rezervasyon sistemi
-- **[OpenCV Video Colorization](https://github.com/mertalimucuk/Colorchangeopencv)** — Siyah-beyaz videoyu renklendirme
+- **[Data Mining Project](https://github.com/mertalimucuk/DataMiningProject)** — Python ile veri madenciliği ve analiz çalışması
 
 ## 🛠️ Kullandığım Teknolojiler
 `Python` `PyTorch` `C#` `C++` `OpenCV` `Pillow` `NumPy` `HTML/CSS` 'Flutter' 'NestJS' 'Unity' 
