@@ -15,7 +15,7 @@ AI pipeline'ları ve full-stack geliştirme üzerine çalışan bilgisayar mühe
 - **[Data Mining Project](https://github.com/mertalimucuk/DataMiningProject)** — Python ile veri madenciliği ve analiz çalışması
 
 ## 🛠️ Kullandığım Teknolojiler
-`Python` `PyTorch` `C#` `C++` `OpenCV` `Pillow` `NumPy` `HTML/CSS` 'Flutter' 'NestJS' 'Unity' 
+`Python` `PyTorch` `C#` `C++` `OpenCV` `Pillow` `NumPy` `HTML/CSS` `Flutter` `NestJS` `Unity`
 
 ## 📫 İletişim
 - **LinkedIn:** [linkedin.com/in/mertalimucuk](https://linkedin.com/in/mertalimucuk)
