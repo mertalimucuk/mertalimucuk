@@ -1,16 +1,21 @@
-## Hi there 👋
+# Merhaba, ben Mert 👋
 
-<!--
-**mertalimucuk/mertalimucuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI pipeline'ları ve full-stack geliştirme üzerine çalışan bilgisayar mühendisiyim.
 
-Here are some ideas to get you started:
+## 🔨 Şu Anda Çalıştığım Alanlar
+- LLM cost optimization & multi-layer AI architectures
+- Document analysis pipelines (OCR + Vision LLM)
+- Computer vision & medical imaging
+- Full-stack web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Öne Çıkan Projelerim
+- **[OCR-AI Cascade Filter](https://github.com/mertalimucuk/OCR-ai-cascade-filter)** — %90 maliyet tasarrufu sağlayan 5 katmanlı görsel filtresi
+- **[X-ray Fracture Classification](https://github.com/mertalimucuk/xray-fracture-classification)** — ResNet34 ile röntgen sınıflandırması
+- **[Reservation System](https://github.com/mertalimucuk/ReservationSystem_Web_Project)** — C# ile web tabanlı rezervasyon sistemi
+- **[OpenCV Video Colorization](https://github.com/mertalimucuk/Colorchangeopencv)** — Siyah-beyaz videoyu renklendirme
+
+## 🛠️ Kullandığım Teknolojiler
+`Python` `PyTorch` `C#` `C++` `OpenCV` `Pillow` `NumPy` `HTML/CSS` 'Flutter' 'NestJS' 'Unity' 
+
+## 📫 İletişim
+- **LinkedIn:** [linkedin.com/in/mertalimucuk](https://linkedin.com/in/mertalimucuk)
