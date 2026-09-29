@@ -18,4 +18,4 @@ AI pipeline'ları ve full-stack geliştirme üzerine çalışan bilgisayar mühe
 `Python` `PyTorch` `C#` `C++` `OpenCV` `Pillow` `NumPy` `HTML/CSS` `Flutter` `NestJS` `Unity`
 
 ## 📫 İletişim
-- **LinkedIn:** [linkedin.com/in/mertalimucuk](https://linkedin.com/in/mertalimucuk)
+- **LinkedIn:** [linkedin.com/in/mert-ali-mucuk-9a3935229](https://www.linkedin.com/in/mert-ali-mucuk-9a3935229/)
